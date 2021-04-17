@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(135, 223, 235);
+}
+
+h1{
+    color: rgb(255, 47, 47);
+}
+
+#head {
+    color:red;
+    display: flex;
+    justify-content: center;
+    
+}
+h2{
+    color: rgb(6, 8, 3);
+
+}
+h3{
+    color: rgb(6, 8, 3);
+}
