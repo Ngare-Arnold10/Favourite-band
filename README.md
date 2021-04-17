@@ -19,5 +19,5 @@ https://github.com/Ngare-Arnold10/Favourite-band.git
 1. CSS
 1. Git
 ### Live Site
-View [Live] https://github.com/Ngare-Arnold10/Favourite-band.git
+View [Live](https://ngare-arnold10.github.io/Favourite-band/)
 ### Licence
